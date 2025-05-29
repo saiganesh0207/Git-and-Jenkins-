@@ -32,3 +32,4 @@ finally:
     print("Closing browser...")
     driver.quit()
 
+print ('hello world')
